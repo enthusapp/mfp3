@@ -1,12 +1,8 @@
 {
     "plugins": [
-        "expandable-chapters",
-        "fontsettings"
+        "expandable-chapters"
     ],
     "pluginsConfig": {
-        "expandable-chapters":{},
-        "fontsettings": {
-            "theme": "sepia"
-        }
+        "expandable-chapters":{}
     }
 }
