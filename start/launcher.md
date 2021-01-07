@@ -3,14 +3,14 @@
 ## 시나리오 단독 재생
 홈 화면의 목록에서 `단독 재생` 버튼을 누르면 편집창이 닫히고, 선택한 시나리오가 재생됩니다.
 
-<img src="../../img/0-3.jpg" width="1000" style="border: 1px solid"/>
+<img src="../../img/0-3.jpg" style="border: 1px solid"/>
 
 시나리오가 재생되면서 하단에 제어창이 열립니다. 제어창에서 `정지` 버튼을 누르면 재생이 멈추고 다시 편집창이 열립니다.
 
-<img src="../../img/0-4.jpg" width="1000" style="border: 1px solid"/>
+<img src="../../img/0-4.jpg" style="border: 1px solid"/>
 
 ## 제어창
-<img src="../../img/0-5.jpg" width="1000" style="border: 1px solid"/>
+<img src="../../img/0-5.jpg" style="border: 1px solid"/>
 
 ### 1. 재생 화면
 선택한 시나리오에 저장된 화면이 재생됩니다.
