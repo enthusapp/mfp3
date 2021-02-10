@@ -1,5 +1,5 @@
 # 이미지 흐름
-편집창은 **링크**, **SCENE 설정**, **아이콘 선택** 으로 구성되어 있습니다.
+편집창은 **현재 위치**, **SCENE 설정**, **아이콘 선택** 으로 구성되어 있습니다.
 
 <img src="./img/icon/sceneEditor.jpg" style="border: 1px solid"/>
 
