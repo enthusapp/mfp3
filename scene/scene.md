@@ -18,12 +18,12 @@
 ## SCENE 편집
 편집창은 **현재 위치**와 **SCENE 설정** 으로 구성되어 있습니다.
 
-<img src="./img/sceneEditor.jpg" style="border: 1px solid"/>
+<img src="./img/scene/sceneEditor.jpg" style="border: 1px solid"/>
 
 ### 1. 미리 보기
 SCENE 편집 완료 후 `미리보기` 버튼을 누르면 재생 화면이 나타나 편집 결과를 확인할 수 있습니다.
 
-<img src="./img/previewScene.jpg" style="border: 1px solid"/>
+<img src="./img/scene/previewScene.jpg" style="border: 1px solid"/>
 
 `미리보기 정지` 버튼을 누르면 재생 화면이 닫힙니다.
 
