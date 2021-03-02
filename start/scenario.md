@@ -25,7 +25,7 @@ SCENE의 재생 순서는 **SCENE 목록**에 추가된 순서이고 `↑` `↓`
 ## 단독 재생
 홈 화면의 목록에서 `단독 재생` 버튼을 누르면 편집창이 닫히고, 시나리오가 재생되기 시작합니다.
 
-<img src="./img/gradient/playScenario.jpg" style="border: 1px solid"/>
+<img src="./img/scenario/playScenario.jpg" style="border: 1px solid"/>
 
 시나리오가 재생되면서 하단에 제어창이 열립니다. 제어창에서 `정지` 버튼을 누르면 다시 편집창으로 돌아갈 수 있습니다.
 
