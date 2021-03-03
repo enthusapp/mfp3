@@ -21,5 +21,6 @@
   * [시나리오 편집](schedule/scenarios.md)
   * [스케줄 설정](schedule/edit.md)
   * [재생 시간 설정](schedule/repeat.md)
+  * [스케줄 확인](schedule/preview.md)
 * [환경설정](control/setting.md)
 * [제어창](control/window.md)
