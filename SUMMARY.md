@@ -24,3 +24,4 @@
   * [스케줄 확인](schedule/preview.md)
 * [환경설정](control/setting.md)
 * [제어창](control/window.md)
+* [원격 제어](control/remote.md)
