@@ -32,3 +32,7 @@ USB를 연결한 후 `파일 선택`을 눌러 영상파일을 가져옵니다.
 영상 파일 이름이 표시돼 추가된 것을 확인할 수 있습니다.
 
 <img src="./img/video/addedVideo.jpg" style="border: 1px solid"/>
+
+저장된 영상파일의 링크는 아래와 같습니다.
+
+<img src="./img/video/videoLink.jpg" style="border: 1px solid"/>
