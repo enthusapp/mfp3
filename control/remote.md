@@ -12,7 +12,7 @@ ID를 확인합니다.
 
 ## 컴퓨터
 
-원격 제어를 이용할 컴퓨터의 TeamViewer를 실행시킨 뒤 MFPlayer에서 확인한 ID를 입력하여 연결합니다.
+원격 제어를 이용할 컴퓨터의 TeamViewer를 실행시킨 뒤 MFPlayer에서 확인한 ID를 파트너 ID에 입력하여 연결합니다.
 
 <img src="./img/remote/partnerId.jpg" style="border: 1px solid"/>
 
