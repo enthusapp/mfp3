@@ -7,7 +7,7 @@ gitbook install
 ## 편집
 [SUMMARY.md](SUMMARY.md) 에 새로 생성한 문서에 대한 경로를 추가합니다.
 
-##### 예시
+### 예시
 ```markdown
 # Summary
 
@@ -51,3 +51,6 @@ git checkout main
 ```
 gitbook pdf
 ```
+
+## Troubleshooting
+* https://github.com/enthusapp/tips/blob/master/gitbook.md#gitbook-install-graceful-fs-errror 참조
