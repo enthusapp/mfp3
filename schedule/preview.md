@@ -7,13 +7,13 @@
 
 <img src="./img/preview/preview.jpg" style="border: 1px solid"/>
 
-스케줄 목록에서 체크된 스케줄이 달력에 표시됩니다.
+스케줄 목록에서 체크된 스케줄이 달력에 표시됩니다. 각각 스케줄은 고유의 색상으로 구분할 수 있습니다.
 
 <img src="./img/preview/preview1.jpg" style="border: 1px solid" width= "380"/><img src="./img/preview/preview2.jpg" style="border: 1px solid" width= "380"/>
 
 여러 개의 스케줄을 체크해서 한 번에 확인할 수 있습니다.
 
-<img src="./img/preview/preview3.jpg" style="border: 1px solid"/>
+<img src="./img/preview/preview2.jpg" style="border: 1px solid"/>
 
 `닫기`버튼을 누르면 홈 화면으로 돌아갑니다.
 

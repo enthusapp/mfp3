@@ -91,15 +91,15 @@ tip. 적용 기간을 3-5월로 적용해서 사용할 수 있지만 매년 같�
 ### 미리보기
 홈 화면에서 **계절 이벤트**의 전체적인 스케줄을 확인하면 매일 오후 6-11시 사이 매시간 5분을 시작으로 55분 동안 재생되는 것을 확인하실 수 있습니다.
 
-<img src="./img/example/event3Preview.jpg"/>
+<img src="./img/example/event3Preview.jpg" style="border: 1px solid"/>
 
-<img src="./img/example/event3Day.jpg"/>
+<img src="./img/example/event3Day.jpg" style="border: 1px solid"/>
 
-<img src="./img/example/event3Month.jpg"/>
+<img src="./img/example/event3Month.jpg" style="border: 1px solid"/>
 
 ### 전체 스케줄 미리보기
 스케줄의 시간 형태는 매일 동일하고 계절마다 실행되는 스케줄만 변경됩니다.
 
-<img src="./img/example/exampleSpring.jpg"/>
+<img src="./img/example/exampleSpring.jpg" style="border: 1px solid"/>
 
-<img src="./img/example/exampleSummer.jpg"/>
+<img src="./img/example/exampleSummer.jpg" style="border: 1px solid"/>
