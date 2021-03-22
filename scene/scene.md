@@ -8,7 +8,7 @@
 <img src="../start/img/icon/circleDiagonal.jpg" width="1000"/>
 
 ### 색상 흐름
-여러 가지 색상을 조합해 색상 흐름을 연출합니다. [색상 흐름](./gradient.md)
+여러 가지 색상을 조합해 흐름 방향을 선택하거나 전체 디밍을 연출합니다. [색상 흐름](./gradient.md)
 
 <img src="../start/img/gradient/gradientRight.jpg" width="1000"/>
 
