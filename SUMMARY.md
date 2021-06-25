@@ -1,6 +1,7 @@
 # Summary
 
 * [소개](README.md)
+  * [MFPlayer 구조](mfplayer/mfplayer.md)
 * [시작하기](start/README.md)
   * [SCENE 만들기](start/circleDiagonal.md)
   * [SCENE 더하기](start/gradientRight.md)
@@ -24,5 +25,6 @@
   * [스케줄 확인](schedule/preview.md)
   * [예시](schedule/example.md)
 * [환경설정](control/setting.md)
+* [화면 공유 설정](setting/screenShare.md)
 * [제어창](control/window.md)
 * [원격 제어](control/remote.md)
